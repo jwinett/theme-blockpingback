@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name:       Theme Customisations
- * Description:       A handy little plugin to contain your theme customisation snippets.
- * Plugin URI:        http://github.com/woothemes/theme-customisations
+ * Plugin Name:       Block Pingback
+ * Description:       Removes (unsets) the function pingback.ping
+ * Plugin URI:        http://github.com/jwinett/theme-blockpingback
  * Version:           1.0.0
  * Author:            WooThemes
  * Author URI:        https://www.woocommerce.com/
